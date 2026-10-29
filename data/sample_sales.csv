@@ -1,0 +1,34 @@
+order_id,order_date,product,category,quantity,unit_price,region
+ORD-001,2024-01-05,Wireless Mouse,Electronics,2,25.99,North
+ORD-001,2024-01-05,USB-C Hub,Electronics,1,49.99,North
+ORD-002,2024-01-07,Desk Lamp,Home Office,1,35.50,South
+ORD-003,2024-01-10,Wireless Mouse,Electronics,3,25.99,East
+ORD-003,2024-01-10,Mechanical Keyboard,Electronics,1,89.99,East
+ORD-004,2024-01-12,Notebook Set,Stationery,5,8.99,West
+ORD-005,2024-01-15,Desk Lamp,Home Office,2,35.50,North
+ORD-005,2024-01-15,Monitor Stand,Home Office,1,64.99,North
+ORD-006,2024-01-18,Wireless Mouse,Electronics,1,25.99,South
+ORD-007,2024-01-20,Mechanical Keyboard,Electronics,2,89.99,East
+ORD-007,2024-01-20,USB-C Hub,Electronics,3,49.99,East
+ORD-008,2024-01-22,Notebook Set,Stationery,10,8.99,North
+ORD-009,2024-01-25,Monitor Stand,Home Office,1,64.99,West
+ORD-010,2024-01-28,Desk Lamp,Home Office,3,35.50,South
+ORD-011,2024-02-01,Wireless Mouse,Electronics,4,25.99,North
+ORD-011,2024-02-01,Mechanical Keyboard,Electronics,1,89.99,North
+ORD-012,2024-02-03,USB-C Hub,Electronics,2,49.99,East
+ORD-013,2024-02-05,Notebook Set,Stationery,8,8.99,South
+ORD-014,2024-02-08,Monitor Stand,Home Office,2,64.99,West
+ORD-015,2024-02-10,Desk Lamp,Home Office,1,35.50,North
+ORD-016,2024-02-12,Wireless Mouse,Electronics,2,25.99,South
+ORD-016,2024-02-12,USB-C Hub,Electronics,1,49.99,South
+ORD-017,2024-02-15,Mechanical Keyboard,Electronics,3,89.99,West
+ORD-018,2024-02-18,Notebook Set,Stationery,6,8.99,East
+ORD-019,2024-02-20,Monitor Stand,Home Office,1,64.99,North
+ORD-020,2024-02-22,Desk Lamp,Home Office,2,35.50,South
+ORD-020,2024-02-22,Wireless Mouse,Electronics,1,25.99,South
+ORD-021,2024-02-25,USB-C Hub,Electronics,2,49.99,East
+ORD-022,2024-02-28,Mechanical Keyboard,Electronics,1,89.99,North
+ORD-023,2024-03-02,Notebook Set,Stationery,4,8.99,West
+ORD-024,2024-03-05,Monitor Stand,Home Office,3,64.99,South
+ORD-025,2024-03-08,Desk Lamp,Home Office,1,35.50,East
+ORD-025,2024-03-08,Wireless Mouse,Electronics,2,25.99,East
